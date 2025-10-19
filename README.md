@@ -1,72 +1,61 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=abdallah-hamdy.abdallah-hamdy">
+## Hey 👋, I'm Rahul Jha!
+<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B+I'm+Abdallah+Hamdy;Student+%7C+Data+Analysis+Enthusiast;Welcome+to+my+GitHub+profile!">
-  </a>
-</h1>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/your-link" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:your.email@example.com" title="Email"><img width="22" src="images/gmail.svg"> Email</a></code>
-  <code><a href="https://github.com/yourusername" title="GitHub"><img width="22" src="images/github.svg"> GitHub</a></code>
-</h5>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
----
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-### 👨‍🎓 نبذة عني
-<p align="center">
-  أنا <strong>عبدالله حمدي</strong>، طالب في كلية الحاسبات والذكاء الاصطناعي، مهتم بمجال تحليل البيانات وبتعلم أدوات وتقنيات تساعدني أفهم البيانات بشكل أعمق، واتخذ قرارات مبنية على تحليل منطقي ومرئي.
+- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-  <br><br>
-  📊 حاليًا بتعلم:
-  <br>
-  Python | Pandas | NumPy | Matplotlib | Seaborn | Excel | Power BI
-  <br><br>
-  🎯 هدفي: تطوير نفسي كمحلل بيانات محترف، والمشاركة في مشاريع حقيقية تساعدني أطبق اللي بتعلمه.
-</p>
+<br>
 
----
+### 🔨 Languages and Tools:
+<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-### 🔧 المهارات والأدوات
+<br>
 
-<p align="center">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Pandas" height="25" src="images/pandas.svg"></code>
-  <code><img title="NumPy" height="25" src="images/numpy.svg"></code>
-  <code><img title="Matplotlib" height="25" src="images/matplotlib.svg"></code>
-  <code><img title="Seaborn" height="25" src="images/seaborn.svg"></code>
-  <code><img title="Excel" height="25" src="images/excel.svg"></code>
-  <code><img title="Power BI" height="25" src="images/powerbi.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Jupyter Notebook" height="25" src="images/jupyter.svg"></code>
-</p>
 
----
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
-### 📊 GitHub Stats
+</a>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react&hide_border=true" />
-</p>
+<br>
 
----
-
-### 📂 أهم المشاريع
-
-<p align="center">
-  <a href="https://github.com/yourusername/Data-Analysis-Project-1" title="Data Analysis Project 1">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Data-Analysis-Project-1&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-  <a href="https://github.com/yourusername/Excel-Dashboard-Sales" title="Excel Sales Dashboard">
-    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=Excel-Dashboard-Sales&theme=react&border_color=61dafb&border_radius=10">
-  </a>
-</p>
-
----
-
-<h4 align="center">
-  <a href="https://github.com/yourusername?tab=repositories" title="Show Repositories">📁 Show All Projects</a>
-</h4>
+### 🛠️ My Projects
+<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
+<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
